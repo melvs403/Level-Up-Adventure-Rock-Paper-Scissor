@@ -98,32 +98,32 @@ textcolor(4);;
 
 ;
 textcolor(4);
-cout<<"   battle";
+cout<<"   Battle";
 textcolor(7);
 
 textcolor(6);
-cout<<"    market";
+cout<<"    Market";
 textcolor(7);
 
 
 textcolor(3);
-cout<<"  character"<<endl;
+cout<<"   Status"<<endl;
 textcolor(7);
 
 
 
 cout<<"\n⫘⫘[d]⫘⫘⫘[e]⫘⫘⫘[f]⫘⫘⫘⫘⫘⫘                   "<<endl;
 textcolor(1);
-cout<<"   history";
+cout<<"   History";
 textcolor(7);
 
 textcolor(2);
-cout<<"   mission";
+cout<<"   Mission";
 textcolor(7);
 
 
 textcolor(5);
-cout<<"    exit"<<endl;
+cout<<"    Exit"<<endl;
 textcolor(7);
 cout<<"\n❅──────────✧❅✦❅✧──────────❅                   \n              m3|v$."<<endl;
 
